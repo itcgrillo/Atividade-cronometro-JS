@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #D3D3D3;
+}
+
+h1 {
+    font-size: 100px;
+    margin-top: 30vh;
+    margin-bottom: 30px;
+}
+
+button {
+    margin-right: 30px;
+    background-color: #A9A9A9;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    font-size: large;
+    box-shadow: 4px 4px 4px black;
+}
